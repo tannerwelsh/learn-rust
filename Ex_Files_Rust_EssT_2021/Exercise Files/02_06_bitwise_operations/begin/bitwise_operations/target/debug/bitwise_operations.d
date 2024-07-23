@@ -1,0 +1,1 @@
+/Users/tanner/Code/github.com/tannerwelsh/learn-rust/Ex_Files_Rust_EssT_2021/Exercise\ Files/02_06_bitwise_operations/begin/bitwise_operations/target/debug/bitwise_operations: /Users/tanner/Code/github.com/tannerwelsh/learn-rust/Ex_Files_Rust_EssT_2021/Exercise\ Files/02_06_bitwise_operations/begin/bitwise_operations/src/main.rs

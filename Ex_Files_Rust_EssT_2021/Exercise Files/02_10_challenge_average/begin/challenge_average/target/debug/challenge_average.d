@@ -1,0 +1,1 @@
+/Users/tanner/Code/github.com/tannerwelsh/learn-rust/Ex_Files_Rust_EssT_2021/Exercise\ Files/02_10_challenge_average/begin/challenge_average/target/debug/challenge_average: /Users/tanner/Code/github.com/tannerwelsh/learn-rust/Ex_Files_Rust_EssT_2021/Exercise\ Files/02_10_challenge_average/begin/challenge_average/src/main.rs
